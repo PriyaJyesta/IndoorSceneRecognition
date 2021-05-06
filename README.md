@@ -27,5 +27,5 @@ The main aim of transfer learning (TL) is to implement a model quickly. To solve
 Implementation and Results from ResNet
 Added a fully-connected layer for classification, specifying the classes and number of features and also tunned the parameters.
 
-The model has an accuracy of 76%, and it predicts the scenes correctly.
+The model has an accuracy of 78%, and it predicts the scenes correctly.
 
