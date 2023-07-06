@@ -29,3 +29,5 @@ Added a fully-connected layer for classification, specifying the classes and num
 
 The model has an accuracy of 78%, and it predicts the scenes correctly and also predicts external images.
 
+
+Updated 
